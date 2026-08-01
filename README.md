@@ -60,7 +60,7 @@ Table Name: **User**
 
 ## Screenshot
 
-![Project Screenshot]database.png)
+![Project Screenshot](database.png)
 
 ## Note
 

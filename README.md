@@ -19,7 +19,7 @@ This project allows users to:
 - Toggle user status (0 ↔ 1)
 - Instant status update using JavaScript Fetch API (No Page Refresh)
 
-## Technologies Used
+## Built With
 
 - HTML
 - PHP

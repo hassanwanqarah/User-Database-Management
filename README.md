@@ -31,7 +31,7 @@ This project allows users to:
 ## Project Structure
 
 ```
-Task2/
+
 │── final.php
 │── toggle.php
 │── README.md
@@ -68,4 +68,7 @@ Database credentials have been replaced with placeholder values for security rea
 
 ---
 
-# Prepared by : Hassan Wanqarah
+## Prepared by:
+Hassan Wanqarah  
+Mechanical Engineering Student  
+Umm Al-Qura University  
